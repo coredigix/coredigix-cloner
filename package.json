@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coredigix/coredigix-clonner.git"
+    "url": "git+https://github.com/coredigix/coredigix-cloner.git"
   },
   "keywords": [
     "clone",
@@ -18,9 +18,9 @@
   "author": "COREDIGIX",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coredigix/coredigix-clonner/issues"
+    "url": "https://github.com/coredigix/coredigix-cloner/issues"
   },
-  "homepage": "https://github.com/coredigix/coredigix-clonner#readme",
+  "homepage": "https://github.com/coredigix/coredigix-cloner#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-include": "^2.3.1",

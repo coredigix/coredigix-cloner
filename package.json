@@ -1,5 +1,5 @@
 {
-  "name": "coredigix-clonner",
+  "name": "coredigix-cloner",
   "version": "1.0.0",
   "description": "clone or deepClone a javascript object",
   "main": "dist/index-min.js",
